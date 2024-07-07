@@ -27,3 +27,6 @@ This project is a maze generator and solver implemented using graph theory in C+
 1. **Run the executable:**
    ```bash
    ./maze
+
+## Demo Video
+[demo video](https://drive.google.com/file/d/1xLFlp7HkQLZayNIhM7mC204zVYw6Nlwf/view?usp=sharing)
