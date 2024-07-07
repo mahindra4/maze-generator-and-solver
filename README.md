@@ -17,7 +17,7 @@ This project is a maze generator and solver implemented using graph theory in C+
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/mahindra4/maze-generator-and-solver.git
+   git clone https://github.com/mahindra4/maze-generator-and-solver.git
 1. **Navigate to the project directory:**
    ```bash
    cd maze-generator-and-solver
